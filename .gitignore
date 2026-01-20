@@ -1,3 +1,5 @@
 # 忽略打包/构建文件夹
 dist/
 build/
+PZCleaner_en.spec
+PZCleaner_zh.spec
