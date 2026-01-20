@@ -10,7 +10,7 @@ from tkinter import Tk, messagebox, filedialog, Toplevel, ttk, Label
 # ================== Config ==================
 HEIGHT = 2500  # Y dimension of the map
 WIDTH = 3500   # X dimension of the map
-TEXT_FILE_NAME = "strings_en.json"  # Change to "strings_en.json" for English
+TEXT_FILE_NAME = "strings_zh.json"  # Change to "strings_en.json" for English
 # ============================================
 
 # ---------- Handle PyInstaller resource paths ----------
