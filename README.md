@@ -1,2 +1,2 @@
-# PZCleaner-
-A map cleaner for Project Zomboid
+# PZCleaner
+A map cleaner for Project Zomboid(B42)
