@@ -1,0 +1,18 @@
+{
+  "select_save_title": "Select Project Zomboid Save Folder",
+  "no_folder_selected": "No folder selected.",
+  "map_not_found": "Selected folder does not contain a 'map' directory.",
+
+  "main_title": "Scroll to zoom | Drag to select | Click Delete",
+
+  "warning_title": "Warning",
+  "no_area_selected": "No area selected.",
+
+  "confirm_title": "Confirm Selection",
+  "confirm_message": "Delete map files in the following area:\n\nMap coords:\n  X: {xs} - {xe}\n  Y: {ys} - {ye}\n\nGame coords (×8):\n  X: {rxs} - {rxe}\n  Y: {rys} - {rye}",
+
+  "done_title": "Done",
+  "done_message": "Deletion completed.",
+
+  "delete_button": "Delete Selected Area"
+}

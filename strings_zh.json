@@ -1,0 +1,18 @@
+{
+  "select_save_title": "选择 Project Zomboid 存档文件夹",
+  "no_folder_selected": "未选择任何文件夹。",
+  "map_not_found": "所选文件夹中未找到 map 目录。",
+
+  "main_title": "滚轮缩放 | 拖动框选 | 点击删除",
+
+  "warning_title": "提示",
+  "no_area_selected": "尚未选择任何区域。",
+
+  "confirm_title": "确认选择",
+  "confirm_message": "即将删除以下区域内的地图文件：\n\n地图坐标：\n  X：{xs} - {xe}\n  Y：{ys} - {ye}\n\n游戏真实坐标（×8）：\n  X：{rxs} - {rxe}\n  Y：{rys} - {rye}",
+
+  "done_title": "完成",
+  "done_message": "删除完成。",
+
+  "delete_button": "删除选中区域"
+}
